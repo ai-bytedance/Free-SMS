@@ -37,21 +37,11 @@
 
 ---
 
-## 🛡️ 技术实力 (Tech Stack)
-
-虽然我们**不开源核心代码**以保护资源稳定，但我们可以向您展示我们的技术诚意：
-*   **高性能后端**: 基于 FastAPI 构建，确保高并发下的极低延迟。
-*   **现代化前端**: 采用纯原生 JavaScript 与 CSS 变量构建的高性能 SPA，不依赖沉重的库。
-*   **安全加固**: 内置反爬虫与反环境监测逻辑，确保服务的纯净与稳定。
-
----
-
 ## 📢 推广与合作
 
 如果您觉得本服务对您有帮助，欢迎将它推荐给您的开发者社区或社交媒体！
 
 *   **官方入口**: [https://12380.xyz](https://12380.xyz)
-*   **站点地图**: [Sitemap](https://12380.xyz/sitemap.xml)
 *   **项目定位**: 长期维护的免费隐私公益项目。
 
 > *"Privacy is not an option, and it shouldn't be a luxury. It's a fundamental right."*
@@ -91,21 +81,11 @@ In the digital age, when registering for various APPs or services, mobile phone 
 
 ---
 
-## 🛡️ Technical Strength
-
-Although we **do not open source the core code** to protect resource stability, we can show you our technical sincerity:
-*   **High-performance Backend**: Built on FastAPI, ensuring extremely low latency under high concurrency.
-*   **Modern Frontend**: A high-performance SPA built with pure native JavaScript and CSS variables, not relying on heavy libraries.
-*   **Security Hardening**: Built-in anti-crawler and anti-environment monitoring logic to ensure the purity and stability of the service.
-
----
-
 ## 📢 Promotion and Cooperation
 
 If you find this service helpful, please feel free to recommend it to your developer community or social media!
 
 *   **Official Entry**: [https://12380.xyz](https://12380.xyz)
-*   **Sitemap**: [Sitemap](https://12380.xyz/sitemap.xml)
 *   **Project Positioning**: A long-term maintained free privacy public welfare project.
 
 > *"Privacy is not an option, and it shouldn't be a luxury. It's a fundamental right."*
