@@ -64,7 +64,7 @@
 >
 > 🔗 **Access Now: [https://12380.xyz](https://12380.xyz)**
 
-![Free SMS Home Preview](./static/img/preview.png)
+![Free SMS Home Preview](./static/img/preview_en.png)
 
 ---
 
