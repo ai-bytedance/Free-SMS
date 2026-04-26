@@ -43,10 +43,4 @@
 > *"Privacy is not an option, and it shouldn't be a luxury. It's a fundamental right."*
 
 ---
-
-## 🤝 友情链接
-
-*   [LINUX DO](https://linux.do/)
-
----
 © 2024 Free SMS Project. All Rights Reserved.

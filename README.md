@@ -43,10 +43,4 @@ If you find this service helpful, please feel free to recommend it to your devel
 > *"Privacy is not an option, and it shouldn't be a luxury. It's a fundamental right."*
 
 ---
-
-## 🤝 Friendly Links
-
-*   [LINUX DO](https://linux.do/)
-
----
 © 2024 Free SMS Project. All Rights Reserved.
